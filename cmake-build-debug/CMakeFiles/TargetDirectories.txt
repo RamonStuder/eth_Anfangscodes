@@ -1,0 +1,3 @@
+/Users/ramonstuder/Documents/Github/Git_Projekt_eth/eth_Anfangscodes/cmake-build-debug/CMakeFiles/eth_Anfangscodes.dir
+/Users/ramonstuder/Documents/Github/Git_Projekt_eth/eth_Anfangscodes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ramonstuder/Documents/Github/Git_Projekt_eth/eth_Anfangscodes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
